@@ -5,7 +5,8 @@ var geojsonData = {
         "type": "Feature",
         "properties": {
           "city": "Tokyo, Japan",
-          "population": 37400068
+          "population": 37400068,
+          "popupContent": "Tokyo, Japan. Population 37 million"
         },
         "geometry": {
           "type": "Point",
@@ -19,7 +20,9 @@ var geojsonData = {
         "type": "Feature",
         "properties": {
           "city": "Delhi, India",
-          "population": 28514000
+          "population": 28514000,
+          "popupContent": "Delhi, India. Population 29 million"
+
         },
         "geometry": {
           "type": "Point",
@@ -33,7 +36,8 @@ var geojsonData = {
         "type": "Feature",
         "properties": {
           "city": "Shanghai, China",
-          "population": 25582000
+          "population": 25582000,
+          "popupContent": "Shanghai, China. Population 26 million"
         },
         "geometry": {
           "type": "Point",
@@ -47,7 +51,8 @@ var geojsonData = {
         "type": "Feature",
         "properties": {
           "city": "São Paulo, Brazil",
-          "population": 21650000
+          "population": 21650000,
+          "popupContent": "São Paulo, Brazil. Population 22 million"
         },
         "geometry": {
           "type": "Point",
@@ -61,7 +66,8 @@ var geojsonData = {
         "type": "Feature",
         "properties": {
           "city": "Mexico City, Mexico",
-          "population": 21581000
+          "population": 21581000,
+          "popupContent": "Mexico City, Mexico. Population 22 million"
         },
         "geometry": {
           "type": "Point",
@@ -75,7 +81,8 @@ var geojsonData = {
         "type": "Feature",
         "properties": {
           "city": "Cairo, Egypt",
-          "population": 20076000
+          "population": 20076000,
+          "popupContent": "Cairo, Egypt. Population 20 million"
         },
         "geometry": {
           "type": "Point",
@@ -89,7 +96,8 @@ var geojsonData = {
         "type": "Feature",
         "properties": {
           "city": "Mumbai, India",
-          "population": 19980000
+          "population": 19980000,
+          "popupContent": "Mumbai, India. Population 20 million"
         },
         "geometry": {
           "type": "Point",
@@ -103,7 +111,8 @@ var geojsonData = {
         "type": "Feature",
         "properties": {
           "city": "Beijing, China",
-          "population": 19618000
+          "population": 19618000,
+          "popupContent": "Beijing, China. Population 20 million"
         },
         "geometry": {
           "type": "Point",
@@ -117,7 +126,8 @@ var geojsonData = {
         "type": "Feature",
         "properties": {
           "city": "Dhaka, Bangladesh",
-          "population": 19578000
+          "population": 19578000,
+          "popupContent": "Dhaka, Bangladesh. Population 20 million"
         },
         "geometry": {
           "type": "Point",
@@ -131,7 +141,8 @@ var geojsonData = {
         "type": "Feature",
         "properties": {
           "city": "Osaka-shi, Japan",
-          "population": 19281000
+          "population": 19281000,
+          "popupContent": "Osaka-shi, Japan. Population 19 million"
         },
         "geometry": {
           "type": "Point",
@@ -145,7 +156,8 @@ var geojsonData = {
         "type": "Feature",
         "properties": {
           "city": "New York, NY, USA",
-          "population": 18819000
+          "population": 18819000,
+          "popupContent": "New York, NY, USA. Population 19 million"
         },
         "geometry": {
           "type": "Point",
@@ -159,7 +171,8 @@ var geojsonData = {
         "type": "Feature",
         "properties": {
           "city": "Karachi City, Pakistan",
-          "population": 15400000
+          "population": 15400000,
+          "popupContent": "Karachi City, Pakistan. Population 15 million"
         },
         "geometry": {
           "type": "Point",
@@ -173,7 +186,8 @@ var geojsonData = {
         "type": "Feature",
         "properties": {
           "city": "Buenos Aires, Argentina",
-          "population": 14967000
+          "population": 14967000,
+          "popupContent": "Buenos Aires, Argentina. Population 15 million"
         },
         "geometry": {
           "type": "Point",
@@ -187,7 +201,8 @@ var geojsonData = {
         "type": "Feature",
         "properties": {
           "city": "Chongqing, China",
-          "population": 14838000
+          "population": 14838000,
+          "popupContent": "Chongqing, China. Population 15 million"
         },
         "geometry": {
           "type": "Point",
@@ -201,7 +216,8 @@ var geojsonData = {
         "type": "Feature",
         "properties": {
           "city": "Constantinople, Turkey",
-          "population": 14751000
+          "population": 14751000,
+          "popupContent": "Constantinople, Turkey. Population 15 million"
         },
         "geometry": {
           "type": "Point",
@@ -215,7 +231,8 @@ var geojsonData = {
         "type": "Feature",
         "properties": {
           "city": "Sealdah, India",
-          "population": 14681000
+          "population": 14681000,
+          "popupContent": "Sealdah, India. Population 15 million"
         },
         "geometry": {
           "type": "Point",
@@ -229,7 +246,8 @@ var geojsonData = {
         "type": "Feature",
         "properties": {
           "city": "Manila, Philippines",
-          "population": 13482000
+          "population": 13482000,
+          "popupContent": "Manila, Philippines. Population 13 million"
         },
         "geometry": {
           "type": "Point",
@@ -243,7 +261,8 @@ var geojsonData = {
         "type": "Feature",
         "properties": {
           "city": "Lagos",
-          "population": 13463000
+          "population": 13463000,
+          "popupContent": "Lagos, Nigeria. Population 13 million"
         },
         "geometry": {
           "type": "Point",
@@ -257,7 +276,8 @@ var geojsonData = {
         "type": "Feature",
         "properties": {
           "city": "Rio de Janeiro, Brazil",
-          "population": 13293000
+          "population": 13293000,
+          "popupContent": "Rio de Janeiro, Brazil. Population 13 million"
         },
         "geometry": {
           "type": "Point",
@@ -271,7 +291,8 @@ var geojsonData = {
         "type": "Feature",
         "properties": {
           "city": "Tianjin, China",
-          "population": 13215000
+          "population": 13215000,
+          "popupContent": "Tianjin, China. Population 13 million"
         },
         "geometry": {
           "type": "Point",
